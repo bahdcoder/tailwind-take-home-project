@@ -1,6 +1,6 @@
 # Tailwind UI Take-Home Test
 
-Your task is to take the included design (`design.fig`, a [Figma](https://figma.com) file) and build it with Tailwind and either React or Vue.
+Your task is to take the included design (a [Figma](https://www.figma.com/file/R98VfQ1G18sHWqjYRf4ja3/React-Challenge-(designed-by-TailwindLabs)) file) and build it with Tailwind and either React or Vue.
 
 ![](screenshot.png)
 
